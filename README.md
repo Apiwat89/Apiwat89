@@ -25,7 +25,7 @@
 <!-- ===== SKILLS ===== -->
 <h3>🛠️ Languages & Tools</h3>
 
-<h4>📱 Mobile / Front-end</h4>
+<h4>🌐 Front-end / Mobile</h4>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42"/>
@@ -63,17 +63,13 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42"/>
 </p>
 
-<h4>☁️ Cloud / Tools</h4>
+<h4>☁️ Cloud / DevOps / Tools</h4>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="42"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42"/>
-</p>
-
-<h4>🎨 Design</h4>
-<p>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="42"/>
 </p>
