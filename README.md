@@ -1,32 +1,34 @@
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header&text=Apiwat%20Ketsawong&fontSize=40&animation=fadeIn" />
+<!-- ===== HEADER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Apiwat%20Ketsawong&fontSize=42&animation=fadeIn" />
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%26+AI+Enthusiast;Building+web+applications+and+AI-powered+solutions;From+front-end+to+back-end" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%26+AI+Enthusiast;Web+Development+%7C+Backend+%7C+AI+%26+Data;Building+scalable+and+intelligent+systems;From+front-end+to+back-end" />
 </p>
 
-<br/>
-
-<h3 align="center">
-  🚀 Passionate about Web Development & AI Systems
-</h3>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284068-3dff8c9b-8c8b-4a3c-8c0a-8c7c7b0a8c7c.gif" width="100%"/>
-
-<h3 align="left">🤝 Connect with me</h3>
-<p align="left">
-  <!-- ใส่ลิงก์ภายหลัง -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-blueviolet?style=flat"/>
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=flat"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284068-3dff8c9b-8c8b-4a3c-8c0a-8c7c7b0a8c7c.gif" width="100%"/>
+---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+<!-- ===== DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/74038190/212284126-0e2a5f3e-9c41-4c76-bfe8-bb6c14b51fcb.gif" width="100%"/>
+
+<!-- ===== CONNECT ===== -->
+<h3>🤝 Connect with me</h3>
+<p>
+  <!-- เพิ่ม LinkedIn / Email ทีหลังได้ -->
+</p>
+
+<!-- ===== DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/74038190/212284126-0e2a5f3e-9c41-4c76-bfe8-bb6c14b51fcb.gif" width="100%"/>
+
+<!-- ===== SKILLS ===== -->
+<h3>🛠️ Languages & Tools</h3>
 
 <h4>📱 Mobile / Front-end</h4>
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42"/>
@@ -37,7 +39,7 @@
 </p>
 
 <h4>⚙️ Back-end / Frameworks</h4>
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42"/>
@@ -45,15 +47,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="42"/>
 </p>
 
-<h4>🗄️ Database</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="42"/>
-</p>
-
 <h4>🤖 AI / Data Science</h4>
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42"/>
@@ -64,7 +59,7 @@
 </p>
 
 <h4>☁️ Cloud / Tools</h4>
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="42"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42"/>
@@ -72,18 +67,19 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42"/>
 </p>
 
-<h4>🎨 Design</h4>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="42"/>
+---
+
+<!-- ===== STATS ===== -->
+<h3>📊 GitHub Stats</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 </p>
 
-<h4>💻 Programming Languages</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42"/>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
 </p>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+---
+
+<!-- ===== FOOTER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
