@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Apiwat%20Ketsawong&fontSize=40&animation=fadeIn" />
+
 <h1 align="center">
   Apiwat Ketsawong – Full-Stack Developer & AI Enthusiast
 </h1>
