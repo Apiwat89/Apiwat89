@@ -20,11 +20,11 @@
   <a href="mailto:apiwat89123@gmail.com">
     <img src="https://img.shields.io/badge/Email-apiwat89123%40gmail.com-red?style=flat&logo=gmail" />
   </a>
-   <br>
+
   <a href="https://github.com/Apiwat89">
     <img src="https://img.shields.io/badge/GitHub-Apiwat%20Ketsawong-black?style=flat&logo=github" />
   </a>
-   <br>
+
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
     <img src="https://img.shields.io/badge/LinkedIn-Apiwat%20Ketsawong-blue?style=flat&logo=linkedin" />
   </a>
