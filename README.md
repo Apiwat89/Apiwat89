@@ -85,10 +85,10 @@
 
 <h3>📊 GitHub Stats</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Apiwat89&show_icons=true&theme=tokyonight"/>
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apiwat89&theme=tokyonight"/>
 </p>
 
 ---
